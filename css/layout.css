@@ -239,7 +239,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #publication {
-   background: #ebeeee;
+   background: #fff;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
@@ -389,7 +389,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #experience {
-   background: #fff;
+   background: #ebeeee;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
